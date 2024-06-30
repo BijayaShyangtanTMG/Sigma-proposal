@@ -22,9 +22,9 @@ This repository contains a unique and stylish way to propose to a girl in the le
 
 ## Live Preview
 
-Check out the live preview of the proposal here: [Sigma Reply Proposal Preview](https://iloveuhhh.netlify.app/)
-
-
+Check out the live preview 
+[here](https://iloveuhhh.netlify.app/).
+ 
 **Deploy on Netlify**:
     - Create a Netlify account if you don't have one.
     - Click on "New site from Git" on the Netlify dashboard.
